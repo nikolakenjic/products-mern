@@ -10,7 +10,7 @@ const app = express();
 const __filename = fileURLToPath(import.meta.url);
 const __config = path.dirname(__filename);
 // Use path.resolve to construct the path to the .env file
-dotenv.config({ path: path.resolve(__config, './../config.env') });
+dotenv.config({ path: path.resolve(__config, './../.env') });
 
 const __dirname = path.resolve();
 
