@@ -16,7 +16,7 @@ This is a simple MERN (MongoDB, Express, React, Node.js) application that allows
 
 ### Installation
 
-1. Clone the repository from GitHub: `git clone https://github.com/nikolakenjic/produts-mern.git`
+1. Clone the repository from GitHub: `git clone https://github.com/nikolakenjic/products-mern.git`
 2. Navigate to the project directory: `cd your-repo-name`
 3. Open the project in your code editor.
 
